@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: #fefefe;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  border: none;
+  padding: 0.7rem;
+  margin-left: 1rem;
+  border-radius: 1rem;
+  color: #fefefe;
+  font-size: 1.5rem;
+}
+
+input {
+  background-color: #fefefe;
+  border: none;
+  width: 40%;
+  margin-top: 2rem;
+}
+
+.joke {
+  margin: 1rem auto;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  padding: 1rem;
+  width: 40%;
+}
+
+.favorite {
+  background-color: #e2f10d;
+  color: black;
+  width: 100%;
+}
+
+.submit {
+  display: block;
+  margin: 1rem auto 0;
+  padding: 0;
+}
+
+.sort {
+  margin: 1rem auto 0;
+}
